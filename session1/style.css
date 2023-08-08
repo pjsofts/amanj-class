@@ -1,0 +1,30 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.input-number {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+}
+
+.result {
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    min-width: 100px;
+}
+
+
+.add-button {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
